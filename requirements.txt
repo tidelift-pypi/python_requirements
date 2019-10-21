@@ -62,7 +62,7 @@ SQLAlchemy==1.2.11
 tornado==6.0.3
 urllib3==1.21.1
 watchdog==0.9.0
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 ## The following requirements were added by pip freeze:
 alabaster==0.7.12
 alembic==1.2.1
