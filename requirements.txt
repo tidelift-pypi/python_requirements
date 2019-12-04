@@ -6,7 +6,7 @@ cookiecutter==1.6.0
 coverage==4.5.4
 coveralls==0.4.2
 cryptography==2.7
-Django==2.2.5
+Django==2.2.8
 django-allauth==0.40.0
 django-bootstrap3==11.1.0
 django-braces==1.13.0
