@@ -10,7 +10,7 @@ coverage
 coveralls==0.4.2
 cryptography
 cryptography
-Django==2.2.5
+Django==2.2.18
 django-allauth
 django-bootstrap3
 django-braces
