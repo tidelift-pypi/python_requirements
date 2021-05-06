@@ -91,7 +91,7 @@ dominate==2.4.0
 Faker==2.0.2
 Flask-Admin==1.5.3
 Flask-Bootstrap==3.3.7.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Login==0.4.1
 Flask-RESTful==0.3.7
 Flask-Script==2.0.6
