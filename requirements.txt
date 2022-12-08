@@ -76,7 +76,7 @@ bcrypt==3.1.7
 billiard==3.6.1.0
 binaryornot==0.4.4
 cachetools==3.1.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 coreapi==2.3.3
