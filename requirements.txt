@@ -56,7 +56,7 @@ python-dateutil==2.8.0
 rauth==0.7.0
 redis==3.3.8
 requests==2.18.0
-setuptools==41.0.1
+setuptools==65.5.1
 simplejson==3.16.0
 SQLAlchemy==1.2.11
 tornado==6.0.3
